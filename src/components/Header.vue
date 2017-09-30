@@ -1,9 +1,9 @@
 <template>
   <!-- Header -->
   <q-toolbar >
-    <img src="../statics/Wallapop-icon.png" width="30px"/>
+    <img src="../statics/Project-icon.png" width="30px"/>
     <q-toolbar-title>
-      Wallapop
+      Project
       <span slot="subtitle">Kais NEFFATI</span>
     </q-toolbar-title>
   </q-toolbar>
